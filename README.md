@@ -20,7 +20,7 @@
 *The jekyll tutorial website includes some [Markdown basic syntax](https://labsyspharm.github.io/jekyll-tutorial/markdown-basic) to get you started, and we've included some [useful basics](https://github.com/jtefftHiTS/software-website-template#useful-formatting-links) below.*
 <br>
 
-#### Local editing
+#### Option 1: Local editing
 
 1. [Install Jekyll locally](https://jekyllrb.com/docs/installation/#requirements)
 <br>
@@ -50,7 +50,7 @@ $ bundle exec jekyll serve
 5. You can now make edits to the website files locally using your favorite text editor. 
 <br>
 
-#### Online through GitHub
+#### Option 2: Online through GitHub
 1. To edit an existing page, open the markdown file and start editing it by clicking the pencil icon in the top right tool bar. You can commit these changes directly to your repo. 
 <br>
 
