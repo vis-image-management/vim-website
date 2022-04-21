@@ -4,7 +4,7 @@
 
 - The template has suggested formatting, links, and content suggestions embedded within .md files. 
 - Edit the suggested headings & content to fit your use-case. 
-- Comments with instructions start with `[//]:` *comments will not appear on the website*
+- Comments with instructions start with `[//]: # ` *comments will not appear on the website*
 
 - You can hide pages that aren't relevant to your site by adding `nav_exclude: true` to the file header. 
 - Internal links within the template should continue to work as long as you don't change the file names or page parent (`has_children: true`) children (`parent: parent page title`).
