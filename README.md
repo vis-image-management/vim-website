@@ -1,30 +1,31 @@
 # Software Website Template
 
-Use this repo as a template to build your own software website. 
+**Use this repo as a template to build your own software website.** 
 
 - The template has suggested formatting, links, and content suggestions embedded within .md files. 
 - Edit the suggested headings & content to fit your use-case. 
-- You can also hide pages that are not relevant to your site by adding `nav_exclude: true` to the file header. 
+- Comments with instructions start with `[//]:` *comments will not appear on the website*
+
+- You can hide pages that aren't relevant to your site by adding `nav_exclude: true` to the file header. 
 - Internal links within the template should continue to work as long as you don't change the file names or page parent (`has_children: true`) children (`parent: parent page title`).
 
 ## Using the template
 
+### 1. In your GitHub account, [import](https://github.com/new/import) "labsyspharm/blank-software-website" as a new repo
+<br>
+
+### 2. Edit files
+**You can do this two ways - online through github.com or locally using terminal and a text editor.**
+
+*The jekyll tutorial website includes some [Markdown basic syntax](https://labsyspharm.github.io/jekyll-tutorial/markdown-basic) to get you started, and we've included some [useful basics](https://github.com/jtefftHiTS/software-website-template#useful-formatting-links) below.*
+<br>
+
+#### Local editing
+
 1. [Install Jekyll locally](https://jekyllrb.com/docs/installation/#requirements)
-
-2. In your GitHub account, [import](https://github.com/new/import) "labsyspharm/blank-software-website" as a new repo
-
-
-### Publish website
-- Go the the settings of your repo: https://github.com/.../repo-name/settings/pages
-- Click 'pages' on the left hand menu
-- Select the branch you want to publish, 'docs' as the source folder, and hit 'save'
-- Your website url will display above (username.github.io/repo-name)
-- Updates to the site will take a few minutes to appear after changes are made to repo files
-- You can either edit files on github.com or use the following instructions to edit on your local computer. 
-
-
-### Edit files locally
-3. Clone the repo 
+<br>
+  
+2. Clone the repo 
 - This will insert blank-software-website files into your current directory
 - You can find the https link for your new repo on the green 'code' button on the main repo page
 ```
@@ -32,25 +33,31 @@ $ git clone <https>
 ```
 <br>
 
-4. Navigate into the docs folder
+3. Navigate into the docs folder
 ```
 $ cd blank-software-website/docs/
 ```
 <br>
 
-5. Generate a local website to preview
+4. Generate a local website to preview
 ```
 $ bundle exec jekyll serve
 ```
 *The site address will be visible in your terminal, probably http://localhost:4000/*
+
 <br>
 
-6. You can now make edits to the website files locally using your favorite text editor. 
+5. You can now make edits to the website files locally using your favorite text editor. 
 <br>
 
-## Making the website yours
+#### Online through GitHub
+1. To edit an existing page, open the markdown file and start editing it by clicking the pencil icon in the top right tool bar. You can commit these changes directly to your repo. 
+<br>
 
-### Update config.yml
+2. If you want to see the changes you've made, you can go ahead and [publish the website](https://github.com/jtefftHiTS/software-website-template#publish-website). Changes will take a few minutes to appear on the website (and require a page refresh). 
+<br>
+
+### 3. Update `_congif.yml` to make the website yours!
 config.yml contains the overall formatting of the site. See the [Jekyyl Tutorial](https://labsyspharm.github.io/jekyll-tutorial/customizations/) for more information.
 
 * Change the title - this will display as the name of your site 
@@ -58,6 +65,13 @@ config.yml contains the overall formatting of the site. See the [Jekyyl Tutorial
 * Ensure that you have made a license file for the software and add in the relevant path to this file.
 * Update the path to your banner image and logo
 * You may toggle the color theme if desired
+<br>
+
+### 4. Publish website!
+- Go the the settings of your repo: https://github.com/.../repo-name/settings/pages
+- Click 'pages' on the left hand menu
+- Select the branch you want to publish, 'docs' as the source folder, and hit 'save'
+- Your website url will display above (username.github.io/repo-name)
 <br>
 
 ## Useful formatting links
