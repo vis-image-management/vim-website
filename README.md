@@ -57,7 +57,7 @@ $ bundle exec jekyll serve
 2. If you want to see the changes you've made, you can go ahead and [publish the website](https://github.com/labsyspharm/blank-software-website#4-publish-website). Changes will take a few minutes to appear on the website (and require a page refresh). 
 <br>
 
-### 3. Update `_congif.yml` to make the website yours!
+### 3. Update `_config.yml` to make the website yours!
 config.yml contains the overall formatting of the site. See the [Jekyyl Tutorial](https://labsyspharm.github.io/jekyll-tutorial/customizations/) for more information.
 
 * Change the title - this will display as the name of your site 
