@@ -17,7 +17,7 @@
 ### 2. Edit files
 **You can do this two ways - online through github.com or locally using terminal and a text editor.**
 
-*The jekyll tutorial website includes some [Markdown basic syntax](https://labsyspharm.github.io/jekyll-tutorial/markdown-basic) to get you started, and we've included some [useful basics](https://github.com/jtefftHiTS/software-website-template#useful-formatting-links) below.*
+*The jekyll tutorial website includes some [Markdown basic syntax](https://labsyspharm.github.io/jekyll-tutorial/markdown-basic) to get you started, and we've included some [useful basics](https://github.com/labsyspharm/blank-software-website#useful-formatting-links) below.*
 <br>
 
 #### Option 1: Local editing
@@ -54,7 +54,7 @@ $ bundle exec jekyll serve
 1. To edit an existing page, open the markdown file and start editing it by clicking the pencil icon in the top right tool bar. You can commit these changes directly to your repo. 
 <br>
 
-2. If you want to see the changes you've made, you can go ahead and [publish the website](https://github.com/jtefftHiTS/software-website-template#publish-website). Changes will take a few minutes to appear on the website (and require a page refresh). 
+2. If you want to see the changes you've made, you can go ahead and [publish the website](https://github.com/labsyspharm/blank-software-website#4-publish-website). Changes will take a few minutes to appear on the website (and require a page refresh). 
 <br>
 
 ### 3. Update `_congif.yml` to make the website yours!
@@ -121,7 +121,7 @@ See the [Just the Docs - LSP](https://labsyspharm.github.io/just-the-docs-lsp/) 
 
 ### Images
 
-You'll find 4 examples of how to define images in the [example data set](https://github.com/jtefftHiTS/blank-software-website/blob/master/docs/dataset.md) page
+You'll find 4 examples of how to define images in the [example data set](https://github.com/labsyspharm/blank-software-website/blob/main/docs/dataset.md) page
 
 ### Line break
 Use `<br>` to add extra spacing
