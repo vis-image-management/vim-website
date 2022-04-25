@@ -11,7 +11,15 @@
 
 ## Using the template
 
-### 1. In your GitHub account, [import](https://github.com/new/import) "labsyspharm/blank-software-website" as a new repo
+### 1. Copy the template into a new repo
+- [Import**](https://github.com/new/import) "labsyspharm/blank-software-website" as a new repo. 
+- Set the owner as labsyspharm\*
+- Name the new repo with your website name
+
+\* Please set labsyspharm as the owner to allow us to keep track of all LSP related research websites and maintain it beyond your tenure in the lab. 
+
+\*\* *If you want to host the website files within the same repo as your software, you can alternatively copy all files contained within the template `docs/` folder into your software repo.*  
+
 <br>
 
 ### 2. Edit files
@@ -35,11 +43,18 @@ $ git clone <https>
 
 3. Navigate into the docs folder
 ```
-$ cd blank-software-website/docs/
+$ cd your-website-name/docs/
 ```
 <br>
 
-4. Generate a local website to preview
+4. Install the necessary gems
+```
+$ bundle install
+```
+<br>
+
+
+5. Generate a local website to preview
 ```
 $ bundle exec jekyll serve
 ```
@@ -47,7 +62,7 @@ $ bundle exec jekyll serve
 
 <br>
 
-5. You can now make edits to the website files locally using your favorite text editor. 
+6. You can now make edits to the website files locally using your favorite text editor. 
 <br>
 
 #### Option 2: Online through GitHub
