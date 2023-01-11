@@ -50,6 +50,10 @@ Each file follows the following naming convention:
 2. **FILE TYPES/SUMMARY:**
 Each folder corresponds to a patient sample (N). The following files are available for each patient and are located on [Synapse/AWS/Etc].
 
+ <Data should be uploaded to the appropriate public repository where applicable>
+ <DATA SHOULD NOT BE STORED ON GITHUB>
+ <If you are not sure which repository to use for your data type reach out to your Data Managers>
+ 
 |File Type     | Description                                                                        | Location|
 |--------      | ----------------------------------------------------------------------------------|---------|
 |N.ome.tif	   | Stitched multiplex CyCIF image pyramid in ome.tif format                           | AWS     |
@@ -60,6 +64,7 @@ Each folder corresponds to a patient sample (N). The following files are availab
 |N_ROI.csv     | X and Y coordinates for histologically annotated regions in CyCIF and H&E images   | Synapse |
 |raw/          | folder of raw IF image data in .rcpnl format                                       | AWS     |
 |segmentation/ |  folder of segmentation maps for tissue image in .tif format                       | AWS     |
+| | Sequencing data | GEO|
 
  **Synapse Library:** [Edit this to link directly to your public Synapse Library](https://www.synapse.org/)  
   >*Free account registration is required to download files from Synapse.*  
