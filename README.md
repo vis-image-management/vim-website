@@ -89,6 +89,9 @@ config.yml contains the overall formatting of the site. See the [Jekyyl Tutorial
 - Your website url will display above (username.github.io/repo-name)
 <br>
 
+***(Optionally) If your publication involves releasing data or code, follow [these instructions](https://labsyspharm.github.io/jekyll-tutorial/website-template/#datarelease-readmemd-in-the-website-templates) to display data table at the bottom of your repository.*
+<br>
+
 ## Useful formatting links
 
 See the [Just the Docs - LSP](https://labsyspharm.github.io/just-the-docs-lsp/) page for complete and thorough information about how to edit the template format! 
