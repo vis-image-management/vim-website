@@ -19,15 +19,13 @@ hero_ctas:
 
 [//]: # On this page, use active voice to describe your software. For example, "This software uses python to do X" *instead* of "X is done by using python"
 
-# Key Features
-
-## Catchy description
+## Our Mission
 Elaborate on feature.
 
-## Catchy description
+## Visualization 
 Elaborate on feature.
 
-## Open source
+## Image Data Management
 MY SOFTWARE is written in ABC and is available under the MIT License. It can be downloaded at: [https://github.com/labsyspharm/blank-software-website](https://github.com/labsyspharm/blank-software-website).
 
 
