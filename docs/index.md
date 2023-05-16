@@ -20,16 +20,14 @@ hero_ctas:
 [//]: # On this page, use active voice to describe your software. For example, "This software uses python to do X" *instead* of "X is done by using python"
 
 ## Our Mission
-Elaborate on feature.
+VIM (Visualization and Image Data Management) is an intersisciplinary association across different research labs, university hospitals, and open-source developing efforts. Its mission is to provide a platform for research and educational exchange and to join efforts in developing and standardizing data formats, platforms and interfaces for analyzing and communicating biomedical imaging data.
 
 ## Visualization 
-Elaborate on feature.
+We focus on imaging data visualization approaches and tools, including rendering, perception and visual encodings, image viewers, and visual analytics.
 
 ## Image Data Management
-MY SOFTWARE is written in ABC and is available under the MIT License. It can be downloaded at: [https://github.com/labsyspharm/blank-software-website](https://github.com/labsyspharm/blank-software-website).
+We focus on image data management, including data formats, standards, platforms and hosting.
 
-
-**For more details, read the manuscript here: [https://doi.org/](https://doi.org/).**
 
 
 
