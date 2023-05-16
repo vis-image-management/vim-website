@@ -4,8 +4,8 @@ title: Home
 nav_order: 1
 has_children: true
 description: ""
-hero_heading: "SOFTWARE NAME"
-hero_body: "A software that does X and Y"
+hero_heading: "VIM"
+hero_body: "An Interdisciplinary Association for Visualization and Image Data Management"
 hero_ctas:
   - label: "OVERVIEW"
     link: "overview/"
