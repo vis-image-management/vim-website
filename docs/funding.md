@@ -5,7 +5,7 @@ nav_order: 91
 
 ---
 
-# Funding
+# Organization
 
 [//]: # Describe the funding sources relevant for your work. 
 
