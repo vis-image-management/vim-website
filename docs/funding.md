@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_exclude: false
+title: Orga Team
 nav_order: 91
 
 ---
