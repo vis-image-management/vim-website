@@ -7,7 +7,7 @@ nav_order: 90
 
 # Contributors
 
-MCMICRO is a multi-institutional effort with contributions by the following developers:
+The Visualization and Image Data Management (VIM) Meeting is a multi-institutional effort.
 
 {: .text-center}
 |Institution| People|
