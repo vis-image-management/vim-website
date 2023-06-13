@@ -2,7 +2,7 @@
 layout: default
 title: Overview
 nav_order: 2
-has_children: true
+has_children: false
 ---
 
 [//]: # The goal of this page is to give a simplified overview of your software. 
