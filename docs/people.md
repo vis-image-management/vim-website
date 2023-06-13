@@ -5,7 +5,7 @@ nav_order: 90
 
 ---
 
-# Contributors
+# Participating Institutions
 
 The Visualization and Image Data Management (VIM) Meeting is a multi-institutional effort.
 
