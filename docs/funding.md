@@ -10,5 +10,5 @@ nav_order: 91
 [//]: # Describe the funding sources relevant for your work. 
 
 This work was supported by: 
-* This grant
+* This grant.
 * This other grant
