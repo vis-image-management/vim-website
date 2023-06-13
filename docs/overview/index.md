@@ -14,6 +14,5 @@ has_children: false
 
 # Overview 
 
-{:.no_toc }
 
 The Visualization and Image Data Management (VIM) Meeting is a monthly interdisciplinary online lab meeting, working group, and science forum for topics ranging from biomedical visualization (rendering, perception and visual encodings, image viewers, and visual analytics) to biomedical image data management (formats, standards, platforms and hosting). Participating groups include University labs from, e.g., OHSU, University of Dundee, and Harvard to collaborators from Glencoe, OME, Sage Bionetworks, and hospitals such as Brigham and Women's and Mass General.
