@@ -50,9 +50,9 @@ license:
 
 # Linked logos
 footer_logos:
-  - name: "Laboratory of Systems Pharmacology"
+  - name: "VIM - Visualization and Image Data Management"
     image: "assets/images/logo_lsp_white.svg" # this is stored in the remote theme's repo
-    url: "https://labsyspharm.org"
+    url: "https://vis-image-management.github.io/vim-website/"
   - name: "Harvard Medical School"
     image: "/assets/images/logo_hms.svg" # this is stored in the remote theme's repo
     url: "https://hms.harvard.edu/"
@@ -64,7 +64,7 @@ last_edit_time_format: "%b %e %Y" # format: https://ruby-doc.org/stdlib-2.7.0/li
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/labsyspharm/blank-software-website" # the github URL for your repo
+gh_edit_repository: "https://github.com/vis-image-management/vim-website" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
