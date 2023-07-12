@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Overview
+title: Monthly Meeting
 nav_order: 2
 has_children: false
 ---
