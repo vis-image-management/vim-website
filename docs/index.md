@@ -5,7 +5,7 @@ nav_order: 1
 has_children: true
 description: ""
 hero_heading: "VIM"
-hero_body: "An Interdisciplinary Association for Visualization and Image Data Management"
+hero_body: " is an interdisciplinary academic association working together on visualization and image data management topics for bioemdical imaging and analysis."
 hero_ctas:
   - label: "OVERVIEW"
     link: "overview/"
