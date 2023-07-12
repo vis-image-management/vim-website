@@ -22,7 +22,7 @@ title: SOFTWARE SITE
 description: >- # this means to ignore newlines until "logo:"
   MY SOFTWARE website
 logo: "/images/blank-microsite-logo.png"
-hero_background: "/images/hero_background.jpg"
+hero_background: "/images/hero_background.png"
 
 # Build settings
 remote_theme: labsyspharm/just-the-docs-lsp
