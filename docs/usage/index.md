@@ -9,7 +9,7 @@ has_children: true
 
 ### Rendering
 
-### Perception and Visual Encodings
+### Perception and Visual Encodings
 
 ### Image Viewers
 
